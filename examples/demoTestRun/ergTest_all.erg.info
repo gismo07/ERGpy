@@ -1,0 +1,98 @@
+#INFOFILE1.1 - Do not remove this line!
+
+File.Format = erg
+File.ByteOrder = LittleEndian
+File.DateInSeconds = 1481975881
+
+File.At.1.Name = Car.Road.Route.DevDist
+File.At.1.Type = Float
+Quantity.Car.Road.Route.DevDist.Unit = m
+
+File.At.2.Name = Car.v
+File.At.2.Type = Float
+Quantity.Car.v.Unit = m/s
+
+File.At.3.Name = DM.Steer.Ang
+File.At.3.Type = Float
+Quantity.DM.Steer.Ang.Unit = rad
+
+File.At.4.Name = $none$
+File.At.4.Type = 4 Bytes
+
+Anim.Msg.0.Time = 0
+Anim.Msg.0.Class = Anim
+Anim.Msg.0.Id = 21
+Anim.Msg.0.Data:
+	YQp59LLVZ1+dLfRUA5cMfWz2PXFhCnloAAAAaAAAAGgAAAAAABUAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK
+
+Anim.VehicleClass = Car
+Anim.Vehicle.MovieSkin = Porsche_911_1997.mobj
+
+Anim.Msg.1.Time = 0
+Anim.Msg.1.Class = Anim
+Anim.Msg.1.Id = 11
+Anim.Msg.1.Data:
+	ZTJ+NsQhW280srqECL3mSEz8cKNlMn8GAAAA2AAAANgAAAAAAAsEAAAAAAAAAAAA
+	P0UeuD6T989AjcKPv0UeuD+mZmYAAAAAAAAAAAAAAABAEvGqAAAAAD8GJN1EoIAA
+	RK8AAAAAAAAAAAAAPszMzUBcKPY/PGp/PpP3z0BcKPa/PGp/PpP3zz+LhR8/Q5WB
+	PpP3zz+LhR+/Q5WBPpP3zwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAA+zMzN
+
+Anim.Msg.2.Time = 0
+Anim.Msg.2.Class = Anim
+Anim.Msg.2.Id = 15
+Anim.Msg.2.Data:
+	xyxXyk1/l/PKB5A6SdzEBHak+MbHLFcCAAAAiAAAAIgAAAAAAA8EAAAAAAAAAQAA
+	PqJa7j5qFh4AAAAAPpcKPYAAAAAAAAAARhxAAAH/AAA+olruPmoWHoAAAAA+lwo9
+	AAAAAAAAAABGHEAAAgEAAD6iWu4+ahYeAAAAAD6XCj2AAAAAAAAAAEYcQAAD/wAA
+	PqJa7j5qFh6AAAAAPpcKPQAAAAAAAAAARhxAAAoK
+
+Anim.Msg.3.Time = 0
+Anim.Msg.3.Class = Anim
+Anim.Msg.3.Id = 23
+Anim.Msg.3.Data:
+	y1RdeAsvG/ECyGJiHzI1Qv/ClsrLVF2gAAAAlAAAAJQAAAAAABcAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoK
+
+Anim.Msg.4.Time = 0
+Anim.Msg.4.Class = Instr
+Anim.Msg.4.Id = 0
+Anim.Msg.4.Data:
+	LU41sJuiDF02vBWBWrHUfeMri+4tTjWcAAAAFAAAABQAAAAAAAAAAQAGAAFF2+ga
+	Q3hyFgAAAAEK
+
+Anim.Msg.5.Time = 0
+Anim.Msg.5.Class = Anim
+Anim.Msg.5.Id = 22
+Anim.Msg.5.Data:
+	MXY7FtaQfg1BJpQcVhg2S3x1ye4xdjs6AAAAFAAAABQAAAAAABYAAQAGAAFF2+ga
+	Q3hyFgAAAAEK
+
+Anim.Msg.6.Time = 0
+Anim.Msg.6.Class = Anim
+Anim.Msg.6.Id = 17
+Anim.Msg.6.Data:
+	k3ATLtTQlMm7HEIb+MfBkgut4vyTcBM2AAAABAAAAAQAAAAAABEAAAoK
+
+Testrun = ergTest
+
+NamedValues.Count = 0
+
+KeyValues.Count = 0
+
+Comment:
+	For more details see session logfile
+
+CarMaker.Version = 5.1.2
+CarMaker.Version.MatSupp = 5.1.2
+CarMaker.Version.Apo = 1.26
+CarMaker.Version.Info = 1.11
+CarMaker.Version.Driver = 6.5.7
+CarMaker.Version.Road = 5.1.2.1
+CarMaker.Version.Tire = 5.0.1
+
